@@ -3,6 +3,7 @@
 
 
 Introduction:
+
 Welcome to an in-depth tutorial on constructing a sophisticated automated threat detection pipeline using Shuffle SOAR. In this comprehensive guide, we'll meticulously walk through each step, from configuring Shuffle SOAR to seamlessly integrating Wazuh alerts, parsing SHA-256 hashes with advanced regular expressions (regex), conducting in-depth analyses on VirusTotal, and finally, orchestrating case management with TheHive. By the end, you'll have a robust, fully automated incident response system in your home lab.
 Prerequisites:
 
